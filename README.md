@@ -10,3 +10,7 @@ Ejemplos de ORM JavaScript Sequelize. Aplicaciones basicas como integración con
 * __unoauno__: Ejemplo de la relacion oneToOne de Sequelize, es decir 1a1: hasOne & BelongsTo.
 * __unoamuchos__: Ejemplo de la relacion oneToMany de Sequelize, es decir 1aN: hasMany & BelongsTo.
 * __nan__: Ejemplo de la relacion ManyToMany de Sequelize, es decir NaN: belongsToMany.
+* __cli__: Sequelize CLI Boilerplate, es decir un proyecto inicial para configurar todo, .sequelizerc y las carpetas.
+* __cli-models__: Ejemplo de como generar modelos con el CLI y asociarlos al proyecto en el archivo database/db.js
+* __cli-asociaciones__: Ejemplo de como hacer asociaciones usando el CLI y explicación de index.js dentro de la carpeta models
+* __cli-seeds__: Ejemplo de como crear la siembra o SEEDS con el CLI, es un tipo de migración, pero para rellenar la base de datos. Muy útil.
