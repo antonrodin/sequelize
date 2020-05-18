@@ -14,3 +14,4 @@ Ejemplos de ORM JavaScript Sequelize. Aplicaciones basicas como integración con
 * __cli-models__: Ejemplo de como generar modelos con el CLI y asociarlos al proyecto en el archivo database/db.js
 * __cli-asociaciones__: Ejemplo de como hacer asociaciones usando el CLI y explicación de index.js dentro de la carpeta models
 * __cli-seeds__: Ejemplo de como crear la siembra o SEEDS con el CLI, es un tipo de migración, pero para rellenar la base de datos. Muy útil.
+* __cli-migrations__: Ejemplo de migraciones con Sequelize ORM. Configuración y un par de migraciones junto con una relación.
